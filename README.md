@@ -9,3 +9,9 @@ Target easy questions; #starters ; Problems solved = 10 (Array,String,Maths)
 ### DAY3 
 Target easy questions; Problems solved = 6 (String,Linked List)
 
+### DAY4
+Target easy questions; Problems solved = 2 (Linked List)
+
+### DAY5
+Target easy questions; Problems solved = 4 (Linked List, Sorting&searching)
+
