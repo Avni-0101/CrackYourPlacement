@@ -15,3 +15,6 @@ Target easy questions; Problems solved = 2 (Linked List)
 ### DAY5
 Target easy questions; Problems solved = 4 (Linked List, Sorting&searching)
 
+### DAY6
+Target easy questions; Problems solved = 6 (Linked List, Sorting&searching, Stacks&Queues)
+
