@@ -22,3 +22,4 @@ Target easy questions; Problems solved = 6 (Linked List, Sorting&searching, Stac
 Target easy questions; Problems solved = 6 (Stacks&Queues, Trees)
 
 ### DAY8
+Target easy questions; Problems solved = 5 (Stacks&Queues, Trees)
