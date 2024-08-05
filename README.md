@@ -23,3 +23,9 @@ Target easy questions; Problems solved = 6 (Stacks&Queues, Trees)
 
 ### DAY8
 Target easy questions; Problems solved = 5 (Stacks&Queues, Trees)
+
+### DAY9
+Target easy questions; Problems solved = 2 (STrees)
+
+### DAY10
+Target easy questions; Problems solved = 3 (Trees)
