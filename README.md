@@ -29,3 +29,9 @@ Target easy questions; Problems solved = 2 (STrees)
 
 ### DAY10
 Target easy questions; Problems solved = 3 (Trees)
+
+### DAY11
+Target easy questions; Problems solved = 8 (Trees, Graph)
+
+### DAY12
+Target easy questions; Problems solved = 1 (Graph)
