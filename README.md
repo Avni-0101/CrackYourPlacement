@@ -34,4 +34,15 @@ Target easy questions; Problems solved = 3 (Trees)
 Target easy questions; Problems solved = 8 (Trees, Graph)
 
 ### DAY12
-Target easy questions; Problems solved = 1 (Graph)
+Problems solved = 2 (Graph) /
+Level Upgraded!!! Easy--> Medium /
+Problems solved = 1 (Math) /
+
+### DAY13
+Medium Problems solved = 1 (String)
+
+### DAY14
+Medium Problems solved = 3 (Array)
+
+### DAY15
+Medium Problems solved = 1 (Array)
