@@ -46,3 +46,12 @@ Medium Problems solved = 3 (Array)
 
 ### DAY15
 Medium Problems solved = 1 (Array)
+
+### DAY16
+Medium Problems solved = 1 (Array)
+
+### DAY17
+Medium Problems solved = 3 (Array)
+
+### DAY18
+Medium Problems solved = 4 (Array)
