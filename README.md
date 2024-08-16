@@ -61,3 +61,9 @@ Medium Problems solved = 2 (Array)
 
 ### DAY20
 Medium Problems solved = 6 (Array, String)
+
+### DAY21
+Medium Problems solved = 4 (String, Matrix)
+
+### DAY22
+Medium Problems solved = 1 (Matrix)
