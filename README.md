@@ -66,4 +66,4 @@ Medium Problems solved = 6 (Array, String)
 Medium Problems solved = 4 (String, Matrix)
 
 ### DAY22
-Medium Problems solved = 1 (Matrix)
+Medium Problems solved = 3 (Matrix, Maths, LL)
