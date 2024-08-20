@@ -66,4 +66,13 @@ Medium Problems solved = 6 (Array, String)
 Medium Problems solved = 4 (String, Matrix)
 
 ### DAY22
-Medium Problems solved = 3 (Matrix, Maths, LL)
+Medium Problems solved = 3 (Matrix, Stack, LL)
+
+### DAY23
+Medium Problems solved = 2 (Tree)
+
+### DAY24
+...unexpected rakhi break...
+
+### DAY25
+Medium Problems solved = 1 (Sorting)
