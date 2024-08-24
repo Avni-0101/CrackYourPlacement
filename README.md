@@ -76,3 +76,6 @@ Medium Problems solved = 2 (Tree)
 
 ### DAY25
 Medium Problems solved = 1 (Sorting)
+
+### DAY26 - DAY28
+Medium Problems solved = 3 (DP, Sliding Window)
