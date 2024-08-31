@@ -83,5 +83,11 @@ Medium Problems solved = 3 (DP, Sliding Window)
 ### DAY29
 Medium Problems solved = 2 (Tree)
 
-### DAY30-31
-Medium Problems solved = 1 (Dp)
+### DAY30-33
+Medium Problems solved = 1 (Dp,graph)
+
+### DAY35
+Medium Problems solved = 1 (DP)
+
+### DAY35
+Medium Problems solved = 1 (Tree)
