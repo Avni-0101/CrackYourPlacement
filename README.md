@@ -86,11 +86,17 @@ Medium Problems solved = 2 (Tree)
 ### DAY30-33
 Medium Problems solved = 1 (Dp,graph)
 
-### DAY34
+### DAY35
 Medium Problems solved = 1 (DP)
 
-### DAY35
+### DAY36
 Medium Problems solved = 2 (Tree)
 
-### DAY36
+### DAY37
 Medium Problems solved = 4 (Tree)
+
+### DAY39
+Medium Problems solved = 1 (Tree)
+
+### DAY40
+Medium Problems solved = 1 (Tree)
