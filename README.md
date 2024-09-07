@@ -100,3 +100,6 @@ Medium Problems solved = 1 (Tree)
 
 ### DAY40
 Medium Problems solved = 1 (Tree)
+
+### DAY43
+Medium Problems solved = 1 (Tree)
